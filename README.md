@@ -1,10 +1,14 @@
-# Restaurant Data Analysis MySQL
+# Restaurant Data Analysis using MySQL 🍽👩‍🍳
 
 ## Overview
 
 This project is a comprehensive analysis of restaurant data using MySQL. It involves transforming a provided dataset into a relational database and executing various SQL queries to extract meaningful insights. The tasks cover a wide range of SQL functionalities, including basic SELECT queries, filtering, sorting, aggregate functions, joins, subqueries, date and time functions, data modification, window functions, common table expressions (CTE), and advanced joins.
 
-## Completed Tasks
+## Restaurant Data Analysis 🍗🌭🌮🍴🍽👩‍🍳
+
+![Restaurant Analysis](https://github.com/Raghad-El-Ghobashy/Restaurant_Data_Analysis_MySQL/blob/main/Restaurant%20Data%20Analysis%20with%20MySQL.jpg)
+
+## Completed Tasks 👩‍💻
 
 Below are the tasks completed in this project:
 
@@ -57,3 +61,10 @@ Below are the tasks completed in this project:
 
 16. **Advanced Joins**:
     - Retrieved the `order_id`, `item_name`, and `price` for all orders with their respective menu item details, including rows even if there is no matching menu item.
+
+## Assessment Video Script 💾💻
+
+[SQL Script ](https://github.com/Raghad-El-Ghobashy/Restaurant_Data_Analysis_MySQL/blob/main/Restaurant_Data_Analysis_MySQL.mp4)
+
+
+
